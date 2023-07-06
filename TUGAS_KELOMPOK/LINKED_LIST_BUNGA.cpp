@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//nama kelompok : Dimas, Nova_satria, syahrul, ibrahim
 struct Node {
     string data;
     Node* next;
